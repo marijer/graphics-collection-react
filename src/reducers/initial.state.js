@@ -3,6 +3,7 @@ export default {
 	},
 	data: {
 		data: [],
-		loaded: false	
+		loaded: false,
+		error: {}
 	}
 };

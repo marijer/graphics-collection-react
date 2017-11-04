@@ -1,0 +1,1 @@
+export const API_URL = 'http://marijerooze.nl/thesis/graphics/API/'
