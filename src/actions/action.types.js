@@ -1,0 +1,3 @@
+export const DATA_LOADED = 'DATA_LOADED';
+
+export const FILTER_CHANGED = 'FILTER_CHANGED';
